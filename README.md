@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[**👉 Visit Live Demo Here**](https://fps005.github.io/Personal-Portfolio/)
+[**👉 Visit Live Demo Here**](https://mahmoudAboElmagd005.github.io/Personal-Portfolio/)
 
 </div>
 
@@ -65,4 +65,4 @@ The project focuses on using JavaScript to create interactive UI features such a
 1. **Clone the repository:**
 
 ```bash
-https://github.com/FPS005/Personal-Portfolio.git
+https://github.com/mahmoudAboElmagd005/Personal-Portfolio.git
