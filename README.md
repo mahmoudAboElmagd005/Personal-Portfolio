@@ -15,17 +15,12 @@
 [**👉 Visit Live Demo Here**](https://fps005.github.io/Personal-Portfolio/)
 
 </div>
----
-<div align="center">
 
-[**💻 Clone Repository Here**](https://github.com/FPS005/Personal-Portfolio.git)
-
-</div>
 ---
 
 ## 📋 Project Description
 
-**Personal Portfolio** is a responsive personal portfolio website built to showcase skills, projects, experience, and contact information.
+**Personal Portfolio** is a responsive personal portfolio website built with HTML, CSS, Tailwind CSS, and JavaScript to showcase skills, projects, experience, and contact information.
 
 The project focuses on using JavaScript to create interactive UI features such as theme switching, active navigation links, portfolio filtering, testimonials carousel, customization settings, and scroll-to-top functionality.
 
@@ -46,6 +41,7 @@ The project focuses on using JavaScript to create interactive UI features such a
 ---
 
 ## 🛠️ Technologies Used
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
