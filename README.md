@@ -65,4 +65,4 @@ The project focuses on using JavaScript to create interactive UI features such a
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/FPS005/Personal-Portfolio.git
+https://github.com/FPS005/Personal-Portfolio.git
